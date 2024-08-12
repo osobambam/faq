@@ -1,0 +1,16 @@
+.title-container{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 5px;
+    background: #21aeca;
+    /* border: 1px solid red; */
+}
+.content-container{
+    padding: 5px;
+    background: #39b9d2;
+    /* border: 1px solid red; */
+}
+.accordion-container{
+    max-width: 600px;
+}
